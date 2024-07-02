@@ -7,10 +7,10 @@
 
 <!-- Banner Section -->
 
+   <div>
+           <img src="https://i.ibb.co/qMY7rwb/github-banner.png" />
+   </div>      
          
-            <img
-              src="https://i.ibb.co/qMY7rwb/github-banner.png"
-          />
 
 <br/>
 
