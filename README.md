@@ -6,12 +6,11 @@
 
 
 <!-- Banner Section -->
-<div style="position: relative; text-align: center; color: white;">
-    <img src="https://img.freepik.com/free-vector/abstract-background-design-with-stars-blue_53876-43533.jpg?t=st=1719902448~exp=1719906048~hmac=d7047cde3e046ed430df98cd580e3eb9e346f5b406a1c0c28d195313e6eb1dd4&w=740" alt="Banner" style="width:100%;">
+<div style="position: relative; text-align: center; color: white; height: 400px; background-image: url('https://img.freepik.com/free-vector/abstract-background-design-with-stars-blue_53876-43533.jpg?t=st=1719902448~exp=1719906048~hmac=d7047cde3e046ed430df98cd580e3eb9e346f5b406a1c0c28d195313e6eb1dd4&w=740'); background-size: cover; background-position: center;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
         <h3>A Passionate Web Developer</h3>
-        <p>🌱 I’m currently learning <strong>Next.js, Node.js, MongoDB, Redux  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" /></strong></p>
-        <p>💬 Ask me about <strong>HTML, CSS, JavaScript, React  <img src="https://skillicons.dev/icons?i=html,css,javaScript,react" /></strong></p>
+        <p style='display:flex align-item:center font-size:20px'>🌱 I’m currently learning <strong>Next.js, Node.js, MongoDB, Redux <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" /></strong></p>
+        <p style='display:flex align-item:center font-size:20px'>💬 Ask me about <strong>HTML, CSS, JavaScript, React <img src="https://skillicons.dev/icons?i=html,css,javascript,react" /></strong></p>
     </div>
 </div>
 <br/>
