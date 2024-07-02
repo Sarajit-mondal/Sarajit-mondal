@@ -13,7 +13,7 @@
         color: white;
         height: 350px;
         width: full;
-        background-image: url('https://img.freepik.com/free-vector/abstract-background-design-with-stars-blue_53876-43533.jpg?t=st=1719902448~exp=1719906048~hmac=d7047cde3e046ed430df98cd580e3eb9e346f5b406a1c0c28d195313e6eb1dd4&w=740');
+        background-image: url('https://img.freepik.com/free-vector/abstract-background-design-with-stars-blue_53876-43533.jpg?t=st=1719902448~exp=1719906048~hmac=d7047cde3e046ed430df98cd580e3eb9e346f5b406a1c0c28d195313e6eb1dd4');
         background-size: cover;
         background-position: center;
       "
