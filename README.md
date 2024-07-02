@@ -6,6 +6,16 @@
 
 <h3 align="center">A passionate web developer </h3>
 
+<!-- Banner Section -->
+<div style="position: relative; text-align: center; color: white;">
+    <img src="your-banner-image-url" alt="Banner" style="width:100%;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+        <h1>Sarajit Mandal</h1>
+        <h3>A Passionate Web Developer</h3>
+        <p>🌱 I’m currently learning <strong>Next.js, Node.js, MongoDB, Redux</strong></p>
+        <p>💬 Ask me about <strong>HTML, CSS, JavaScript, React</strong></p>
+    </div>
+</div>
 <br/>
 
 <div align="center">
@@ -14,10 +24,10 @@
 
 💬 Ask me about **HTML, CSS, javaScript, React **
 
- </div>
+</div>
  
 <div align="center"> 
-  <a href="https://www.facebook.com/sarajit.mondal.777/" targe="_blank">
+  <a href="https://www.facebook.com/sarajit.mondal.777/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/sarajit-mandal" target="_blank">
@@ -28,7 +38,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -43,12 +53,27 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div margin ="5px" align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sarajit-mondal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sarajit-mondal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div margin ="5px" align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sarajit-mondal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sarajit-mondal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sarajit-mondal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Sarajit-mondal&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/><br/>
 <hr/>
 
+<!-- Pinned Repositories -->
+<h2 align="center">📌 Pinned Repositories 📌</h2>
+<br>
+<div align="center">
+  <a href="https://github.com/yourusername/e-commerce-website">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=e-commerce-website&theme=react" />
+  </a>
+  <a href="https://github.com/yourusername/personal-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=personal-portfolio&theme=react" />
+  </a>
+  <a href="https://github.com/yourusername/chat-application">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chat-application&theme=react" />
+  </a>
+</div>
+<br/><br/>
