@@ -4,27 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sarajit+Mandal!;" />
 </h1>
 
-<h3 align="center">A passionate web developer </h3>
 
 <!-- Banner Section -->
 <div style="position: relative; text-align: center; color: white;">
-    <img src="your-banner-image-url" alt="Banner" style="width:100%;">
+    <img src="https://img.freepik.com/free-vector/abstract-background-design-with-stars-blue_53876-43533.jpg?t=st=1719902448~exp=1719906048~hmac=d7047cde3e046ed430df98cd580e3eb9e346f5b406a1c0c28d195313e6eb1dd4&w=740" alt="Banner" style="width:100%;">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-        <h1>Sarajit Mandal</h1>
         <h3>A Passionate Web Developer</h3>
-        <p>🌱 I’m currently learning <strong>Next.js, Node.js, MongoDB, Redux</strong></p>
-        <p>💬 Ask me about <strong>HTML, CSS, JavaScript, React</strong></p>
+        <p>🌱 I’m currently learning <strong>Next.js, Node.js, MongoDB, Redux  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" /></strong></p>
+        <p>💬 Ask me about <strong>HTML, CSS, JavaScript, React  <img src="https://skillicons.dev/icons?i=html,css,javaScript,react" /></strong></p>
     </div>
 </div>
 <br/>
 
-<div align="center">
- 
- 🌱 I’m currently learning **Next js, Node js, Mongodb, Redux**
-
-💬 Ask me about **HTML, CSS, javaScript, React **
-
-</div>
  
 <div align="center"> 
   <a href="https://www.facebook.com/sarajit.mondal.777/" target="_blank">
@@ -53,7 +44,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div margin ="5px" align="center">
+<div style = "margin:6px" align="center">
   <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sarajit-mondal&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Sarajit-mondal&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -62,18 +53,4 @@
 <br/><br/>
 <hr/>
 
-<!-- Pinned Repositories -->
-<h2 align="center">📌 Pinned Repositories 📌</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/yourusername/e-commerce-website">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=e-commerce-website&theme=react" />
-  </a>
-  <a href="https://github.com/yourusername/personal-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=personal-portfolio&theme=react" />
-  </a>
-  <a href="https://github.com/yourusername/chat-application">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chat-application&theme=react" />
-  </a>
-</div>
 <br/><br/>
