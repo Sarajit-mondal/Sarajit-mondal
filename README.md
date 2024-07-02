@@ -12,15 +12,13 @@
  
  🌱 I’m currently learning **Next js, Node js, Mongodb, Redux**
 
-💬 Ask me about **HTML, CSS, javaScript, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **HTML, CSS, javaScript, React **
 
  </div>
  
 <div align="center"> 
-  <a href="https://www.facebook.com/sarajit.mondal.777/">
-    <img src="https://img.shields.io/badge/Facebook?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://www.facebook.com/sarajit.mondal.777/" targe="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/sarajit-mandal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -35,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs" /><br>
 </div>
 
 <br/>
@@ -45,7 +43,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sarajit-mondal/Sarajit-mondal/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
